@@ -1,4 +1,4 @@
-# To Do List built with React/Redux
+# To Do List built with React/Redux ✔️
 
 ## Project Description
 
